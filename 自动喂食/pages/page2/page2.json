@@ -1,0 +1,10 @@
+{
+    "usingComponents": {},
+    
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#656e7f",
+    "navigationBarTitleText": "喂养记录",
+    "navigationBarTextStyle": "black"
+
+   
+}

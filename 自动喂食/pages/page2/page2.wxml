@@ -1,0 +1,18 @@
+
+<view class="container">我的喂养方案
+    <input class="input1"/>
+    <view class="flex">
+    <button class="button1" size="mini">修改</button> 
+    <button  class="button1"   size="mini" >保存</button></view>
+    用粮信息
+    <input class="input1"/>
+    <view class="flex">
+    <button  class="button1"  size="mini">修改</button> 
+    <button class="button1"   size="mini" >保存</button></view>
+    额外摄入
+    <input class="input1"/>
+    <view class="flex">
+    <button class="button1"  size="mini">修改</button> 
+    <button  class="button1"   size="mini" >保存</button></view>
+    </view>
+   

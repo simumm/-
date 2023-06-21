@@ -1,0 +1,14 @@
+<!--pages/index/index.wxml-->
+<view class="container">
+       <text> 自动喂养帮助程序</text>
+    <image src="../src/1.png"></image>
+
+<button >
+  <navigator url="/pages/page2/page2" hover-class="navigator-hover">我的记录</navigator>
+</button>
+<button >
+  <navigator url="/pages/page1/page1" hover-class="navigator-hover">日程闹钟</navigator>
+</button>
+<button >
+  <navigator url="/pages/page3/page3" hover-class="navigator-hover">食物监测</navigator>
+</button></view>

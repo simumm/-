@@ -1,0 +1,8 @@
+{
+    "usingComponents": {},
+    
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#656e7f",
+    "navigationBarTitleText": "日程闹钟",
+    "navigationBarTextStyle": "black"
+}

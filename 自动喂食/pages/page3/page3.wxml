@@ -1,0 +1,8 @@
+<!--pages/page3/page3.wxml-->
+
+<view class="container">
+ 
+<text>当前剩余食物量：{{item1}} g  </text>
+    <text>本日食物添加次数: {{item2}}   次 </text>
+<button bindtap='refresh' >刷新</button>
+</view>
